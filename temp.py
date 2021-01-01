@@ -112,3 +112,4 @@ if __name__ == "__main__":
     rw.generate_position_distribution()
     rw.animate_position_distribution()
 
+np.random.randint()
